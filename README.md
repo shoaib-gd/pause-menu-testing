@@ -22,23 +22,23 @@ These artifacts are intended as a portfolio sample demonstrating test design, co
 ---
 
 ## Files
-- `Pause Menu Test Cases.xlsx` — Master spreadsheet with all test cases (Functional / Negative / Edge / UI).  
-- `Pause Menu TestCases-Sheet.pdf` — Readable/exported copy of the test case sheet for quick review.  
-- `Pause Menu TestScenarios.pdf` — High-level test scenarios and scope.
+- `Pause-Menu-Test-Cases.xlsx` — Master spreadsheet with all test cases (Functional / Negative / Edge / UI).  
+- `Pause-Menu-Test-Cases.pdf` — Readable/exported copy of the test case sheet for quick review.  
+- `Pause-Menu-Test-Scenarios.pdf` — High-level test scenarios and scope.
 
 ---
 
 ## How to review
-1. Open `Test-Scenarios.pdf` to understand scope and test coverage.  
-2. Open `Test-Cases.xlsx` to see detailed steps, preconditions, and expected results.  
-3. Use `Test-Cases.pdf` if you prefer a quick read-only version.
+1. Open `Pause-Menu-Test-Scenarios.pdf` to understand scope and test coverage.  
+2. Open `Pause-Menu-Test-Cases.xlsx` to see detailed steps, preconditions, and expected results.  
+3. Use `Pause-Menu-Test-Cases.pdf` if you prefer a quick read-only version.
 
 ---
 
 ## Notes
-- This is a manual test suite authored for portfolio purposes.  
+- This is a manual te For contributors: please follow the naming convention `TC-XX`, `TC-NXX`, `TC-EXX`, `TC-UXX`.st suite authored for portfolio purposes.  
 - Status values in the sheet are set to `Not Executed` — these are not live test runs.  
-- For contributors: please follow the naming convention `TC-XX`, `TC-NXX`, `TC-EXX`, `TC-UXX`.
+-
 
 ---
 
