@@ -36,9 +36,11 @@ These artifacts are intended as a portfolio sample demonstrating test design, co
 ---
 
 ## Notes
-- This is a manual te For contributors: please follow the naming convention `TC-XX`, `TC-NXX`, `TC-EXX`, `TC-UXX`.st suite authored for portfolio purposes.  
-- Status values in the sheet are set to `Not Executed` — these are not live test runs.  
--
+- This is a **manual test suite** authored for portfolio purposes.
+- Test execution status is set to `Not Executed`; these are **test design artifacts**, not live test runs.
+- **Test Case ID Convention:**  
+  `TC-XX` (Functional), `TC-NXX` (Negative), `TC-EXX` (Edge), `TC-UXX` (UI)
+
 
 ---
 
